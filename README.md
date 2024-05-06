@@ -1,4 +1,4 @@
-# Hidin-Plain-Sight
+# NeuroShift
 
 The videos will show the title, share, channel, etc. 
 
